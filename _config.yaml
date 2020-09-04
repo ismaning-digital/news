@@ -1,6 +1,6 @@
-name: "News"
-title: "News. | ismaning.digital"
-description: "Das Digitalprojekt News. stellt Wissenswertes aus Ismaning auf Basis einer offenen Plattform bereit."
+name: "Magis."
+title: "Magis. | ismaning.digital"
+description: "Wissen. Magazin. Ismaning."
 safe: true
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 # theme: jekyll-theme-memoirs-master
